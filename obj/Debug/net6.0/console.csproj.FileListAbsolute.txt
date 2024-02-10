@@ -1,0 +1,15 @@
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.csproj.AssemblyReference.cache
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.AssemblyInfoInputs.cache
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.AssemblyInfo.cs
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/simple-console-c#/console/bin/Debug/net6.0/console
+/home/kali/Desktop/simple-console-c#/console/bin/Debug/net6.0/console.deps.json
+/home/kali/Desktop/simple-console-c#/console/bin/Debug/net6.0/console.runtimeconfig.json
+/home/kali/Desktop/simple-console-c#/console/bin/Debug/net6.0/console.dll
+/home/kali/Desktop/simple-console-c#/console/bin/Debug/net6.0/console.pdb
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.dll
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/refint/console.dll
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.pdb
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/console.genruntimeconfig.cache
+/home/kali/Desktop/simple-console-c#/console/obj/Debug/net6.0/ref/console.dll
